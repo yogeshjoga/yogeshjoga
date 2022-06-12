@@ -31,8 +31,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-# HELLO 
-#### yogesh-joga 
+# yogesh-joga 
 <h1 align="center">
    
   <img src="https://github.com/yogeshjoga/c-learning-30-days/blob/master/my_photo_git.jpg">
