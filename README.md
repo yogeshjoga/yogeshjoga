@@ -36,10 +36,6 @@
 ![](https://komarev.com/ghpvc/?username=yogeshjoga)
 
 # HELLO G
-
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=JAVA-LEARNING-CODE&show_icons=true&theme=radical)](https://github.com/yogeshjoga/JAVA-LEARNING-CODE)
-
-
 <!--
 
 
