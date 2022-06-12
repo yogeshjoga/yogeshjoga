@@ -4,11 +4,6 @@
 <h1 align="center">Hi 👋, I'm Joga Yogesh</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshjoga&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshjoga" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshjoga" alt="yogeshjoga" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jogayogesh" target="blank"><img src="https://img.shields.io/twitter/follow/jogayogesh?logo=twitter&style=for-the-badge" alt="jogayogesh" /></a> </p>
 
 - 📫 How to reach me **jogayogeshedu@gmail.com**
 
