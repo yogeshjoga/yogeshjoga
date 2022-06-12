@@ -34,8 +34,10 @@
 # HELLO 
 #### yogesh-joga 
 <h1 align="center">
-  <a href="https://github.com/yogeshjoga/yogeshjoga/blob/main/CROPED%20SIGNATURE.png" style="width:150px;height:70px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm JOGA YOGESH;  center=true&size=27">
+     
+  <img src="https://github.com/yogeshjoga/c-learning-30-days/blob/master/my_photo_git.jpg">
+  <img src="https://github.com/yogeshjoga/yogeshjoga/blob/main/CROPED%20SIGNATURE.png" style="width:150px;height:70px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm JOGA YOGESH & center=true&size=27">
   </a>
   </a>
 </h1>
