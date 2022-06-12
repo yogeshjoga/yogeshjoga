@@ -43,8 +43,7 @@
 <!--
 
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> 
-Here are some ideas to get you started:
+
 
 
 
