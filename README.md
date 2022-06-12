@@ -37,9 +37,9 @@
 
 # HELLO G
 
-#### Augenstern-creator
+#### yogesh-joga 
 <h1 align="center">
-  <a href="https://www.qindalin.com/">
+  <a href="">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm Augenestern; In the autumn of 2001, I was born in the North& center=true&size=27">
   </a>
 </h1>
@@ -48,9 +48,9 @@
 <!-- badge start -->
 <p align="center">
   <!-- Github badge -->
-  <a href="https://github.com/Augenstern-creator" target="_blank"><img src="https://img.shields.io/badge/GitHub-Augenestern--creator-brightgreen"></a>
+  <a href="https://github.com/yogeshjoga" target="_blank"><img src="https://img.shields.io/badge/GitHub-yogeshjoga-brightgreen"></a>
   <!-- Gitee badge -->
-  <a href="https://gitee.com/Augenstern-creator" target="_blank"><img src="https://img.shields.io/badge/Gitee-Augenestern--creator-orange"></a>
+  <a href="https://gitee.com/yogeshjoga" target="_blank"><img src="https://img.shields.io/badge/Gitee-yogeshjoga--creator-orange"></a>
   <!-- CSDN badge -->
  <a href="https://blog.csdn.net/Augenstern_QXL" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- Personal website Badge -->
