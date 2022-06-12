@@ -36,7 +36,7 @@
 #### yogesh-joga 
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm Augenestern; In the autumn of 2001, I was born in the North& center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm JOGA YOGESH;  center=true&size=27">
   </a>
 </h1>
 <h3 align="center">A struggling developer from Srikakulam/palasa</h3>
@@ -54,12 +54,12 @@
     <img src="https://img. shields. IO / BADGE / website -% E4% B8% AA% E4% Ba% Ba% E7% BD% 91% E7% AB% 99 blue "ALT =" personal website ">
   </a>
   <!-- Visitor badge -->
- <img src="https://visitor-badge.glitch.me/badge?page_id=Augenstern-creator&left_color=green&right_color=red">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=yogeshjoga&left_color=green&right_color=red">
 </p>
 <!-- badge end -->
 <br>
 <!-- Github trophy🏆start -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Augenstern-creator&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yogeshjoga&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
 <!-- Github trophy🏆end -->
 <br>
 <!-- Github Continuous clock in start -->
