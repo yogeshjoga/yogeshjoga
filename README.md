@@ -32,10 +32,9 @@
 
 
 # HELLO 
-
+#### yogesh-joga 
 <h1 align="center">
- #### yogesh-joga 
-  <a href="https://github.com/yogeshjoga/yogeshjoga/blob/main/CROPED%20SIGNATURE.png">
+  <a href="https://github.com/yogeshjoga/yogeshjoga/blob/main/CROPED%20SIGNATURE.png" style="width:500px;height:600px;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm JOGA YOGESH;  center=true&size=27">
   </a>
   </a>
