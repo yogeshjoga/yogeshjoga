@@ -43,7 +43,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm Augenestern; In the autumn of 2001, I was born in the North& center=true&size=27">
   </a>
 </h1>
-<h3 align="center">A struggling developer from China</h3>
+<h3 align="center">A struggling developer from Srikakulam/palasa</h3>
 <br>
 <!-- badge start -->
 <p align="center">
