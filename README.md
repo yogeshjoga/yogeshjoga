@@ -36,7 +36,7 @@
 <h1 align="center">
    
   <img src="https://github.com/yogeshjoga/c-learning-30-days/blob/master/my_photo_git.jpg">
-  <img src="https://github.com/yogeshjoga/yogeshjoga/blob/main/CROPED%20SIGNATURE.png" style="width:800px;height:200px;">
+  <img src="https://github.com/yogeshjoga/yogeshjoga/blob/main/CROPED%20SIGNATURE.png" style="width:800px;height:250px;">
   </a>
   </a>
 </h1>
