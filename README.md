@@ -1,10 +1,29 @@
-### Hi there 👋
+
+
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA) 
 <h1 align="center">Hi 👋, I'm Joga Yogesh</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
 
+**yogeshjoga/yogeshjoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> 
+Here are some ideas to get you started:
+
+<div >
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+   
+   </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/java-learning-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="java-learning-code" height="30" width="40" /></a>
@@ -89,86 +108,8 @@
 
 
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Augenstern-creator&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-The HTML syntax is as follows:
-
-
-[![Augenstern-creator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Augenstern-creator)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Augenstern-creator&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Augenstern-creator&theme=onedark"> </div>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id = your GitHub warehouse ID & left_ color=green&right_ color=red)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Augenstern-creator&left_color=green&right_color=red)
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Augenstern-creator&left_color=green&right_color=red"> </div>
-
-[![Yours GitHub Warehouse ID's github activity graph](https://activity-graph.herokuapp.com/graph?username = your GitHub warehouse ID & theme = Dracula]( https://github.com/ashutosh00710/github-readme-activity-graph )
-
-
-[![Augenstern-creator's github activity graph](https://activity-graph.herokuapp.com/graph?username=Augenstern-creator&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Augenstern-creator&theme=dracula">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- [![Augenstern-creator's github activity graph](https://activity-graph.herokuapp.com/graph?username=Augenstern-creator&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-
-
-
-
-
-
-**yogeshjoga/yogeshjoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> 
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
