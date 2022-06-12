@@ -31,13 +31,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-# HELLO G
+# HELLO 
 
-#### yogesh-joga 
- <a href="https://www.qindalin.com/">
 <h1 align="center">
+ #### yogesh-joga 
   <a href="https://github.com/yogeshjoga/yogeshjoga/blob/main/CROPED%20SIGNATURE.png">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi , I'm JOGA YOGESH;  center=true&size=27">
+  </a>
   </a>
 </h1>
 <h3 align="center">A struggling developer from Srikakulam/palasa</h3>
