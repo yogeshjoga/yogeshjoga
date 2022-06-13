@@ -102,11 +102,13 @@
   <!-- Gitee badge -->
   <a href="https://gitee.com/yogeshjoga" target="_blank"><img src="https://img.shields.io/badge/Gitee-yogeshjoga--creator-orange"></a>
   <!-- CSDN badge -->
- <a href="https://blog.csdn.net/Augenstern_QXL" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
+ <a href="https://www.instagram.com/just_y0gi_yadav" target="_blank"><img src="https://img.shields.io/badge/Instagram-justyogi-yellow"></a>
   <!-- Personal website Badge -->
-<a href="https://www.qindalin.com" target="_blank">
-    <img src="https://img. shields. IO / BADGE / website -% E4% B8% AA% E4% Ba% Ba% E7% BD% 91% E7% AB% 99 blue "ALT =" personal website ">
+<a href="https://www.google.com" target="_blank">
+    <img src="https://www.google.com/search?sxsrf=ALiCzsYN9pLGQBHZ_rv1OAojZAK20_X7Mw:1655107517798&q=joga+yogesh&tbm=isch&chips=q:joga+yogesh,online_chips:jogayogesh:IaeKXlb5TRQ%3D&usg=AI4_-kRLjuMYYuHCPDovmLH9wKJg5IocXw&sa=X&ved=2ahUKEwiTiaf9-6n4AhXM7jgGHdhSDV8QgIoDKAd6BAgEEBo&biw=1536&bih=674&dpr=1.25-blue "ALT =" personal website ">
   </a>
+   
+   
   <!-- Visitor badge -->
  <img src="https://visitor-badge.glitch.me/badge?page_id=yogeshjoga&left_color=green&right_color=red">
 </p>
