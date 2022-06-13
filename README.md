@@ -12,8 +12,7 @@
 ### Hi there 
 <div>
    
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px" ;    outline: "auto";
-  outline-style: "round"> 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style=width: 200px; height: 200px;  border-radius: 50%;> 
   </div>
 Here are some ideas to get you started:
 
