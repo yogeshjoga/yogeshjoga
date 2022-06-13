@@ -14,6 +14,10 @@
 
 ![my heart_x264_x264_gif](https://user-images.githubusercontent.com/36118169/173304183-1317a841-1742-4b90-bf17-e63c5379acf5.gif)
 
+
+
+
+ ![yogiMatrix](https://user-images.githubusercontent.com/36118169/173329541-a0447b7e-eb72-4abe-9eef-175bbe125d31.gif)
 -->
 
 ![gitHub_gif](https://user-images.githubusercontent.com/36118169/173306151-3a46ad7e-4582-452f-8d29-39349db58bfb.gif)
@@ -86,9 +90,13 @@
    <br>
 
 # yogesh-joga 
+
 <h1 align="center">
    
   <img src="https://github.com/yogeshjoga/c-learning-30-days/blob/master/my_photo_git.jpg">
+   
+  
+
   <img src="https://github.com/yogeshjoga/yogeshjoga/blob/main/CROPED%20SIGNATURE.png" style="width:800px;height:250px;">
   </a>
   </a>
