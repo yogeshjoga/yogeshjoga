@@ -9,7 +9,12 @@
 **yogeshjoga/yogeshjoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> 
+### Hi there 
+<div>
+   
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px" ;    outline: "auto";
+  outline-style: "round"> 
+  </div>
 Here are some ideas to get you started:
 
 <div >
