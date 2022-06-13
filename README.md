@@ -99,13 +99,17 @@
 <p align="center">
   <!-- Github badge -->
   <a href="https://github.com/yogeshjoga" target="_blank"><img src="https://img.shields.io/badge/GitHub-yogeshjoga-brightgreen"></a>
-  <!-- Gitee badge -->
-  <a href="https://gitee.com/yogeshjoga" target="_blank"><img src="https://img.shields.io/badge/Gitee-yogeshjoga--creator-orange"></a>
+  <!-- Blog badge -->
+  <a href="https://www.blogger.com/blog/posts/2897536617819595076" target="_blank"><img src="https://img.shields.io/badge/Blogger-yogeshjoga-orange"></a>
   <!-- CSDN badge -->
  <a href="https://www.instagram.com/just_y0gi_yadav" target="_blank"><img src="https://img.shields.io/badge/Instagram-justyogi-yellow"></a>
+   
+   
+   
+   
   <!-- Personal website Badge -->
-<a href="https://www.google.com" target="_blank">
-    <img src="https://www.google.com/search?sxsrf=ALiCzsYN9pLGQBHZ_rv1OAojZAK20_X7Mw:1655107517798&q=joga+yogesh&tbm=isch&chips=q:joga+yogesh,online_chips:jogayogesh:IaeKXlb5TRQ%3D&usg=AI4_-kRLjuMYYuHCPDovmLH9wKJg5IocXw&sa=X&ved=2ahUKEwiTiaf9-6n4AhXM7jgGHdhSDV8QgIoDKAd6BAgEEBo&biw=1536&bih=674&dpr=1.25-blue "ALT =" personal website ">
+<a href="https://www.google.com/search?sxsrf=ALiCzsYN9pLGQBHZ_rv1OAojZAK20_X7Mw:1655107517798&q=joga+yogesh&tbm=isch&chips=q:joga+yogesh,online_chips:jogayogesh:IaeKXlb5TRQ%3D&usg=AI4_-kRLjuMYYuHCPDovmLH9wKJg5IocXw&sa=X&ved=2ahUKEwiTiaf9-6n4AhXM7jgGHdhSDV8QgIoDKAd6BAgEEBo&biw=1536&bih=674&dpr=1.25" target="_blank">
+    <img src="https://img.shields.io/badge/Google-yogesh joga-blue "ALT =" personal website ">
   </a>
    
    
