@@ -8,13 +8,15 @@
 ![iloveyouDeepika_gif_gif_001_gif](https://user-images.githubusercontent.com/36118169/173302465-010f70b2-ff3e-4647-ba90-12d46c9c4f2b.gif)
 
 
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 
 
 ![my heart_x264_x264_gif](https://user-images.githubusercontent.com/36118169/173304183-1317a841-1742-4b90-bf17-e63c5379acf5.gif)
 
 -->
 
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+![gitHub_gif](https://user-images.githubusercontent.com/36118169/173306151-3a46ad7e-4582-452f-8d29-39349db58bfb.gif)
 
 <h1 align="center">Hi 👋, I'm Joga Yogesh</h1>
 <h3 align="center">A passionate java developer from India</h3>
