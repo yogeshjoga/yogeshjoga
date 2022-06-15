@@ -109,8 +109,8 @@
   <a href="https://github.com/yogeshjoga" target="_blank"><img src="https://img.shields.io/badge/GitHub-yogeshjoga-brightgreen"></a>
   <!-- Blog badge -->
   <a href="https://chatwith.io/s/617ab3d1a9ef6" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-yogeshjoga-orange"></a>
-  <!-- CSDN badge -->
- <a href="https://www.instagram.com/just_y0gi_yadav" target="_blank"><img src="https://img.shields.io/badge/Instagram-justyogi-yellow"></a>
+  <!-- Instagram badge -->
+ <a href="https://www.instagram.com/just_yogi_yadav" target="_blank"><img src="https://img.shields.io/badge/Instagram-justyogi-yellow"></a>
    
    
    
