@@ -31,7 +31,7 @@
 ### Hi there  ![](https://komarev.com/ghpvc/?username=yogeshjoga)
 
 
-
+యోగేష్ అనే నేను జావా డెవలపర్ నీ... నా మాతృ బాషా
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning DSA and Spring/Spring Boot
