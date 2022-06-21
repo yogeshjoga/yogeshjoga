@@ -14,7 +14,7 @@
 
 ![my heart_x264_x264_gif](https://user-images.githubusercontent.com/36118169/173304183-1317a841-1742-4b90-bf17-e63c5379acf5.gif)
 
-
+యోగేష్ అనే నేను జావా డెవలపర్ నీ... నా మాతృ బాషా
 
 
  ![yogiMatrix](https://user-images.githubusercontent.com/36118169/173329541-a0447b7e-eb72-4abe-9eef-175bbe125d31.gif)
@@ -32,7 +32,7 @@
 ### Hi there  ![](https://komarev.com/ghpvc/?username=yogeshjoga)
 
 
-యోగేష్ అనే నేను జావా డెవలపర్ నీ... నా మాతృ బాషా
+
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning DSA and Spring/Spring Boot
