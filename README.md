@@ -40,7 +40,7 @@ Never underestimate mechanical guy...
 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Neutara Technologies pvt ltd.
 - 🌱 I’m currently learning DSA and Spring/Spring Boot
 - 👯 I’m looking to collaborate on java Developement Team
 - 🤔 I’m looking for help with 
