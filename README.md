@@ -41,13 +41,13 @@ Never underestimate mechanical guy...
 
 
 - 🔭 I’m currently working on Neutara Technologies pvt ltd.
-- 🌱 I’m currently learning DSA and Spring/Spring Boot
-- 👯 I’m looking to collaborate on java Developement Team
-- 🤔 I’m looking for help with 
-- 💬 Ask me about java and spring boot
+- 🌱 I’m currently learning JAVA DSA and Ethical hacking.
+- 👯 I’m looking to collaborate on java Developement Team and hackers.
+- 🤔 I’m looking for help with hacking and java code.
+- 💬 Ask me about java with spring boot and ethical hacking.
 - 📫 How to reach me: check into badge section
-- 😄 Pronouns: HeY
-- ⚡ Fun fact: Bad luck is my Best Friend
+- 😄 Pronouns: HeY.
+- ⚡ Fun fact: Bad luck is my Best Friend.
 - 
    మీకు జావా నోట్స్ ఇంకా కోడ్ కావాలి అంటే జావా లెర్నింగ్ కోడ్ అనే రిపో చూడండి మీకు కావలిసిన నోట్స్ అండ్ ఇంటర్వ్యూ క్యూస్షన్స్ ఇంకా.....
    ప్రాజెక్ట్స్ చాలా ఉన్నాయి నేను చేసినవి ఒక్క సరి రిపో లు చూసి స్టార్ మార్క్ చేసుకోండి.....
