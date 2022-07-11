@@ -40,6 +40,8 @@ Never underestimate mechanical guy...
 
 
 
+
+
 - 🔭 I’m currently working on Neutara Technologies pvt ltd.
 - 🌱 I’m currently learning JAVA DSA and Ethical hacking.
 - 👯 I’m looking to collaborate on java Developement Team and hackers.
