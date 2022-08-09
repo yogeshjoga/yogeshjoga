@@ -40,6 +40,8 @@ Never underestimate mechanical guy...
 
 
 
+![](https://skyline.github.com/yogeshjoga/2021)
+
 
 
 - 🔭 I’m currently working on Neutara Technologies pvt ltd.
