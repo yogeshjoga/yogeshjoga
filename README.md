@@ -29,6 +29,8 @@ Never underestimate mechanical guy...
 
 ![gitHub_gif](https://user-images.githubusercontent.com/36118169/173306151-3a46ad7e-4582-452f-8d29-39349db58bfb.gif)
 
+
+![gitHub_gif](https://skyline.github.com/yogeshjoga/2021)
 <h1 align="center">Hi 👋, I'm Joga Yogesh</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
@@ -40,7 +42,7 @@ Never underestimate mechanical guy...
 
 
 
-![](https://skyline.github.com/yogeshjoga/2021)
+
 
 
 
