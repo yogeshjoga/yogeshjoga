@@ -18,14 +18,16 @@
 
 పలాస అబ్బాయి కోడింగ్ లో కింగ్ నీ........... చదివింది మెకానికల్ పని చేసింది కంప్యూటర్స్ లో ఏంటో!!
 
- ![yogiMatrix](https://user-images.githubusercontent.com/36118169/173329541-a0447b7e-eb72-4abe-9eef-175bbe125d31.gif)
--->
-
-My new research is MANTRACK we can use computer to lift 
 
 
 ఐ లవ్ కోడింగ్!... 
 హాకింగ్ అంటే చాలా ఇష్టం... 
+ ![yogiMatrix](https://user-images.githubusercontent.com/36118169/173329541-a0447b7e-eb72-4abe-9eef-175bbe125d31.gif)
+-->
+
+My new research is MANTRACK, Mixed with "BLACK MAGIC + BLACK HAT HACKING" COMPLETE AUTOMATION (చేతబడి,మోహిని శక్తి, వశీకరణం, కుండలినీ శక్తి  these all are from vintage Hacking tools Now technology is growing so tools are updated like.. kali linux, tor, dark web, Whonix, SET..etc) my project is i want mix these vintage tools +  computer tools make one NEW TOOL THAT IS MY "MANTHRACK"
+
+
 <br>
 i'm not good at english language, but good at java language...
 Never underestimate mechanical guy...
