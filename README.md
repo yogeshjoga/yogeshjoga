@@ -25,7 +25,7 @@
  ![yogiMatrix](https://user-images.githubusercontent.com/36118169/173329541-a0447b7e-eb72-4abe-9eef-175bbe125d31.gif)
 -->
 
-My new research is MANTRACK, Mixed with "BLACK MAGIC + BLACK HAT HACKING" COMPLETE AUTOMATION (చేతబడి,మోహిని శక్తి, వశీకరణం, కుండలినీ శక్తి  these all are from vintage Hacking tools Now technology is growing so tools are updated like.. kali linux, tor, dark web, Whonix, SET..etc) my project is i want mix these vintage tools +  computer tools make one NEW TOOL THAT IS MY "MANTHRACK"
+My new research is MANTRACK, Mixed with "BLACK MAGIC + BLACK HAT HACKING" COMPLETE AUTOMATION (చేతబడి,మోహిని శక్తి, వశీకరణం, కుండలినీ శక్తి  these all are from vintage Hacking tools, Now a day's technology is growing so tools also updated like.. kali linux, tor, dark web, Whonix, SET..etc) my project is i want to mix with vintage tools + 20's Hacking tools.   This project name is "MANTHRACK"
 
 
 <br>
