@@ -3,7 +3,7 @@
 
 
 
-
+ qr codes added 
 
 ![iloveyouDeepika_gif_gif_001_gif](https://user-images.githubusercontent.com/36118169/173302465-010f70b2-ff3e-4647-ba90-12d46c9c4f2b.gif)
 
