@@ -33,6 +33,7 @@ joga yogesh
 
 My new research is MANTRACK, Mixed with "BLACK MAGIC + BLACK HAT HACKING" COMPLETE AUTOMATION (చేతబడి,మోహిని శక్తి, వశీకరణం, కుండలినీ శక్తి  these all are from vintage Hacking tools, Now a day's technology is growing so tools also updated like.. kali linux, tor, dark web, Whonix, SET..etc) my project is i want to mix with vintage tools + 20's Hacking tools.   This project name is "MANTHRACK"
      
+started bhagavat gita
 
 <br>
 i'm not good at english language, but good at COMPUTER languages...
