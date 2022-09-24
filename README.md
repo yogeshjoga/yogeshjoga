@@ -26,8 +26,10 @@
 add some gif's
 -->
 
-yogesh joga
+yogesh joga//
 joga yogesh
+
+Huge fan of Duraga sir. JAVA ANTE DURA. DUGRA ANTE JAVA
 
 
 
