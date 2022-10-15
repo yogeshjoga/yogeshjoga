@@ -1,7 +1,10 @@
 
 <!--
 
-
+- text in red
++ text in green
+! text in orange
+# text in gray
 
  qr codes added 
 
@@ -28,6 +31,7 @@ add some gif's
 
 
 ```
+- text in red
 
 $$$$$$\                                       $$\     $$\                       $$$$$$$\  $$$$$$$$\  $$$$$$\ $$$$$$$$\                                                 
 \_$$  _|                                      $$ |    $$ |                      $$  __$$\ $$  _____|$$  __$$\\__$$  __|                                                 
