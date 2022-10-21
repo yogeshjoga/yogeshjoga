@@ -20,7 +20,7 @@
 యోగేష్ అనే నేను జావా డెవలపర్ నీ... నా మాతృ బాషా
 
 పలాస అబ్బాయి కోడింగ్ లో కింగ్ నీ........... చదివింది మెకానికల్ పని చేసింది కంప్యూటర్స్ లో ఏంటో!!
-
+click me : https://yogeshjoga.github.io/
 
 
 ఐ లవ్ కోడింగ్!... 
@@ -28,13 +28,11 @@
  ![yogiMatrix](https://user-images.githubusercontent.com/36118169/173329541-a0447b7e-eb72-4abe-9eef-175bbe125d31.gif)
 add some gif's
 -->
-<a href="https://yogeshjoga.github.io/">Click Me</a>
-click me : https://yogeshjoga.github.io/
+To Get My Portfolio : <a href="https://yogeshjoga.github.io/">Click Me</a>
 
 
-```diff
 
-
+```java
  $$$$$$\                                       $$\     $$\                       $$$$$$$\  $$$$$$$$\  $$$$$$\ $$$$$$$$\        
   \_$$  _|                                      $$ |    $$ |                     $$  __$$\ $$  _____|$$  __$$\\__$$  __|    
    $$ |         $$$$$$\  $$$$$$\$$$$\        $$$$$$\   $$$$$$$\   $$$$$$\        $$ |  $$ |$$ |      $$ /  \__|  $$ |                                 
