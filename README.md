@@ -95,7 +95,7 @@ $$$$$$$$\              $$\                           $$\                 $$\    
 
 To Get My Portfolio : <a href="https://yogeshjoga.github.io/">Click Me</a>
 
-To My Rules : <a href="https://yogeshjoga.github.io/live.html/">Click Me</a>
+To My Rules : <a href="https://yogeshjoga.github.io/live.html">Click Me</a>
 
 
 ```
