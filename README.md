@@ -101,7 +101,6 @@ paid service...
 ```
 yogesh joga//
 joga yogesh
-```java
 Huge fan of Duraga sir. JAVA ANTE DURA. DUGRA ANTE JAVA
 ```
 
