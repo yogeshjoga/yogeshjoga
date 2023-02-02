@@ -22,7 +22,7 @@
 పలాస అబ్బాయి కోడింగ్ లో కింగ్ నీ........... చదివింది మెకానికల్ పని చేసింది కంప్యూటర్స్ లో ఏంటో!!
 click me : https://yogeshjoga.github.io/
 
-
+  
 ఐ లవ్ కోడింగ్!... 
 హాకింగ్ అంటే చాలా ఇష్టం... 
  ![yogiMatrix](https://user-images.githubusercontent.com/36118169/173329541-a0447b7e-eb72-4abe-9eef-175bbe125d31.gif)
