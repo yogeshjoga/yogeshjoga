@@ -114,6 +114,9 @@ My new research is MANTRACK, Mixed with "BLACK MAGIC + BLACK HAT HACKING" COMPLE
 started bhagavat gita
 
 <br>
+
+![iloveyouDeepika_gif_gif_001_gif](https://user-images.githubusercontent.com/36118169/173302465-010f70b2-ff3e-4647-ba90-12d46c9c4f2b.gif)
+
 i'm not good at english language, but good at COMPUTER languages...
 Never underestimate mechanical guy...
 
