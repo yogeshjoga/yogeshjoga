@@ -103,6 +103,12 @@ To Get My Photography Project (WebSite) : <a href="https://royalphotographyjani.
 
 Any want YouTube watchTime Booster let me know with in 2 weeks your chennel will reach 4k hr's watch time.....
 paid service...
+
+<p align="center">
+<a href="https://github.com/yogeshjoga/MAANG_PREPRATION#readme" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=65&pause=750&width=1280&height=80&lines=The+Complete+MAANG+Preparation" alt="Typing SVG" /> </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=450&color=CB24F7&size=12&width=435&lines=Hi!+My+Name+is+YOGESH+JOGA.+I+started+MAANG+preparation;+my+goal+is+per+day+3+DSA+problems;+and+at+least+one+SYSTEM+DESIGN+problem." alt="Typing SVG" /></a>
+</p>
+
 ```
 yogesh joga//
 joga yogesh
