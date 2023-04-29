@@ -32,7 +32,25 @@ add some gif's
 To Get My Portfolio : <a href="https://yogeshjoga.github.io/">Click Me</a>
 
    
+```
+`Yogesh Joga Self Introduction `
 
+
+Hello,
+Thank you for giving me this wonderful opportunity to introduce myself to you.
+I am JOGA YOGESH. We are four members in my family including me.
+I am native to palasa. Currently, I want to secure a job with CLOUDFUZE,
+My long-term goal is by gaining work experience of 01-02 years
+contributing to the betterment of my workplace and society.
+I am a self-motivated, and disciplined soul.
+I am always keen to up-skill myself by learning new things whenever I get a chance. 
+My strengths are my analytical approach, problem-solving, time management, 
+and presentation skills. I believe in being realistic 
+my free time, I enjoy spending time using Linux tools,
+practicing code in geeks for geeks and leet code. 
+Apart from this I work with the projects assigned in my company.
+I enjoy Bike rides and IOT toys.
+```
 
 
 
@@ -114,29 +132,6 @@ paid service...
 </p>
 
 
-
-
-
-
-```
-`Yogesh Joga Self Introduction `
-
-
-Hello,
-Thank you for giving me this wonderful opportunity to introduce myself to you.
-I am JOGA YOGESH. We are four members in my family including me.
-I am native to palasa. Currently, I want to secure a job with CLOUDFUZE,
-My long-term goal is by gaining work experience of 01-02 years
-contributing to the betterment of my workplace and society.
-I am a self-motivated, and disciplined soul.
-I am always keen to up-skill myself by learning new things whenever I get a chance. 
-My strengths are my analytical approach, problem-solving, time management, 
-and presentation skills. I believe in being realistic 
-my free time, I enjoy spending time using Linux tools,
-practicing code in geeks for geeks and leet code. 
-Apart from this I work with the projects assigned in my company.
-I enjoy Bike rides and IOT toys.
-```
 
 
 My new research is MANTRACK, Mixed with "BLACK MAGIC + BLACK HAT HACKING" COMPLETE AUTOMATION (చేతబడి,మోహిని శక్తి, వశీకరణం, కుండలినీ శక్తి  these all are from vintage Hacking tools, Now a day's technology is growing so tools also updated like.. kali Linux, tor, dark web, Whonix, SET..etc) my project is i want to mix with vintage tools + 20's Hacking tools.   This project name is "MANTHRACK"
