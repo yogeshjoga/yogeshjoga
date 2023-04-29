@@ -101,7 +101,7 @@ To Get My Portfolio : <a href="https://yogeshjoga.github.io/">Click Me</a> To My
 To Get My Photography Project (WebSite) : <a href="https://royalphotographyjani.github.io/">RoyalPhotographyJani</a>
 
 
-Any want YouTube watchTime Booster let me know with in 2 weeks your chennel will reach 4k hr's watch time.....
+Any one who wants to YouTube watch Time Booster let me know with in 2 weeks your channel will reach 4k hr's watch time.....
 paid service...
 
 <p align="center">
@@ -116,9 +116,9 @@ Huge fan of Duraga sir. JAVA ANTE DURA. DUGRA ANTE JAVA
 ```
 
 
-My new research is MANTRACK, Mixed with "BLACK MAGIC + BLACK HAT HACKING" COMPLETE AUTOMATION (చేతబడి,మోహిని శక్తి, వశీకరణం, కుండలినీ శక్తి  these all are from vintage Hacking tools, Now a day's technology is growing so tools also updated like.. kali linux, tor, dark web, Whonix, SET..etc) my project is i want to mix with vintage tools + 20's Hacking tools.   This project name is "MANTHRACK"
+My new research is MANTRACK, Mixed with "BLACK MAGIC + BLACK HAT HACKING" COMPLETE AUTOMATION (చేతబడి,మోహిని శక్తి, వశీకరణం, కుండలినీ శక్తి  these all are from vintage Hacking tools, Now a day's technology is growing so tools also updated like.. kali Linux, tor, dark web, Whonix, SET..etc) my project is i want to mix with vintage tools + 20's Hacking tools.   This project name is "MANTHRACK"
      
-started bhagavat gita
+started Bhagavad gita
 
 <br>
 
