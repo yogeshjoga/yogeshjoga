@@ -112,6 +112,7 @@ $$$$$$$$\              $$\                           $$\                 $$\    
 -->
 
 HI, MY NAME IS YOGESH JOGA
+![myprof](https://github.com/yogeshjoga/fucker-bomb/assets/36118169/e5c128bd-336c-41c9-acd7-1bb9087454b3)
 
 To Get My Portfolio : <a href="https://yogeshjoga.github.io/">Click Me</a> To My Rules : <a href="https://yogeshjoga.github.io/live.html">Click Me</a> To My Institute Blog : <a href="https://cybersecuritywithyogeshjoga.business.site/?utm_source=gmb&utm_medium=referral">Click Me</a> To My Institute Location : <a href="https://www.google.com/search?sxsrf=ALiCzsbBVMJQtpV0eqtWgY4-Mx95B0WrSA%3A1667323360145&q=cyber%20security%20with%20yogesh%20joga&stick=H4sIAAAAAAAAAONgU1I1qDBONE5JtDRIMjJItLAwME2xMqiwMLFIMzJKNDc1SzI0SjJLWcQqn1yZlFqkUJyaXFqUWVKpUJ5ZkqFQmZ-eWpyhkJWfnggAMfMJqksAAAA&mat=CZsdB76IMmZA&ved=2ahUKEwiGpe3Ev437AhX8jdgFHfIIAS0QrMcEegQICRAC](https://www.google.com/search?sxsrf=ALiCzsbBVMJQtpV0eqtWgY4-Mx95B0WrSA%3A1667323360145&q=cyber%20security%20with%20yogesh%20joga&stick=H4sIAAAAAAAAAONgU1I1qDBONE5JtDRIMjJItLAwME2xMqiwMLFIMzJKNDc1SzI0SjJLWcQqn1yZlFqkUJyaXFqUWVKpUJ5ZkqFQmZ-eWpyhkJWfnggAMfMJqksAAAA&mat=CZsdB76IMmZA&ved=2ahUKEwiGpe3Ev437AhX8jdgFHfIIAS0QrMcEegQICRAC](https://www.google.com/search?sxsrf=ALiCzsbBVMJQtpV0eqtWgY4-Mx95B0WrSA%3A1667323360145&q=cyber%20security%20with%20yogesh%20joga&stick=H4sIAAAAAAAAAONgU1I1qDBONE5JtDRIMjJItLAwME2xMqiwMLFIMzJKNDc1SzI0SjJLWcQqn1yZlFqkUJyaXFqUWVKpUJ5ZkqFQmZ-eWpyhkJWfnggAMfMJqksAAAA&mat=CZsdB76IMmZA&ved=2ahUKEwiGpe3Ev437AhX8jdgFHfIIAS0QrMcEegQICRAC">Click Me</a>
 
