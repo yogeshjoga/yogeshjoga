@@ -52,7 +52,7 @@ Apart from this I work with the projects assigned in my company.
 I enjoy Bike rides and IOT toys.
 ```
 
-
+![klklk](https://github.com/yogeshjoga/SchoolMgmt/assets/36118169/b7a0d982-cb15-4210-b8d1-90ebb57d8000)
 
 
 ```java
@@ -112,8 +112,11 @@ $$$$$$$$\              $$\                           $$\                 $$\    
 -->
 
 HI, MY NAME IS YOGESH JOGA
+<a href="https://large-space-7fa.notion.site/ScALeR_hABit_TrAckEr-71241cd6985f4e15905ce9132f5b181d">HABIT TRACKER NOTION PAGE</a>
 
-![klklk](https://github.com/yogeshjoga/SchoolMgmt/assets/36118169/b7a0d982-cb15-4210-b8d1-90ebb57d8000)
+
+
+
 
  <a href="https://yogeshjoga.github.io/">![myprof](https://github.com/yogeshjoga/fucker-bomb/assets/36118169/e5c128bd-336c-41c9-acd7-1bb9087454b3)</a>
  <a href="https://yogeshjoga.github.io/"> <img src="![myprof](https://github.com/yogeshjoga/fucker-bomb/assets/36118169/e5c128bd-336c-41c9-acd7-1bb9087454b3)">  </a>
