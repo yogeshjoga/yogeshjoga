@@ -175,7 +175,7 @@ Never underestimate mechanical guy...
 
 
 - 🖥️ Learn from DURGA SIR youtube videos only, No trainning Institutes 
-- 🔭 I’m currently working on Neutara Technologies pvt ltd.
+- 🔭 I’m currently Scaler DSA/System Design --> Full Stack.
 - 🌱 I’m currently learning JAVA DSA and Ethical hacking.
 - 👯 I’m looking to collaborate on java Developement Team and hackers.
 - 🤔 I’m looking for help with hacking and java code.
