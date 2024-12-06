@@ -125,7 +125,6 @@ $$$$$$$$\              $$\                           $$\                 $$\    
                                                         __/ |                                           
                                                        |___/                                            
 
--->
 
 HI, MY NAME IS YOGESH JOGA
  <a href="https://topmate.io/joga_yogesh">My TopMate account</a>
@@ -160,13 +159,16 @@ started Bhagavad gita
 <br>
 
 
+-->
+
 
 i'm not good at english language, but good at COMPUTER languages...
 Never underestimate mechanical guy...
 
 ![gitHub_gif](https://user-images.githubusercontent.com/36118169/173306151-3a46ad7e-4582-452f-8d29-39349db58bfb.gif)
 
-
+HI, MY NAME IS YOGESH JOGA
+ <a href="https://topmate.io/joga_yogesh">My TopMate account</a>
 
 
 
@@ -241,7 +243,10 @@ Never underestimate mechanical guy...
 <!-- BLOG-POST-LIST:END -->
  <br>
   <br>
-   <br>
+   <be>
+
+<!--
+
 
 # yogesh-joga 
 
@@ -256,7 +261,9 @@ Never underestimate mechanical guy...
   </a>
 </h1>
 <h3 align="center">A struggling developer from Srikakulam/palasa</h3>
-<br>
+<be>  -->
+
+ 
 <!-- badge start -->
 <p align="center">
   <!-- Github badge -->
