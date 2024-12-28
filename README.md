@@ -184,16 +184,25 @@ HI, MY NAME IS YOGESH JOGA
 
 
 
-- 🖥️ Learn from DURGA SIR youtube videos only, No trainning Institutes 
-- 🔭 I’m currently Scaler DSA/System Design --> Full Stack.
-- 🌱 I’m currently learning JAVA DSA and Ethical hacking.
-- 👯 I’m looking to collaborate on java Developement Team and hackers.
-- 🤔 I’m looking for help with hacking and java code.
-- 💬 Ask me about java with spring boot and ethical hacking.
-- 📫 How to reach me: check into badge section
-- 😄 Pronouns: HeY.
-- ⚡ Fun fact: Bad luck is my Best Friend.
-- Target's PHP,JAVA SCRIPT, PEARL, PYTHON LANGUAGES.
+🖥️ Learn from DURGA SIR YouTube videos only, no training institutes.
+
+🔭 I'm currently working on Scaler DSA/System Design --> Full Stack.
+
+🌱 Currently learning JAVA DSA and Ethical Hacking.
+
+👯 Looking to collaborate on Java development teams and hackers.
+
+🤔 Seeking help with hacking and Java code.
+
+💬 Ask me about Java with Spring Boot and Ethical Hacking.
+
+📫 How to reach me: Check the badge section.
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: Bad luck is my best friend.
+
+🎯 Target Languages: PHP, JavaScript, Perl, Python.
 
 
    మీకు జావా నోట్స్ ఇంకా కోడ్ కావాలి అంటే జావా లెర్నింగ్ కోడ్ అనే రిపో చూడండి మీకు కావలిసిన నోట్స్ అండ్ ఇంటర్వ్యూ క్యూస్షన్స్ ఇంకా.....
