@@ -186,9 +186,9 @@ HI, MY NAME IS YOGESH JOGA
 
 🖥️ Learn from DURGA SIR YouTube videos only, no training institutes.
 
-🔭 I'm currently working on Scaler DSA/System Design --> Full Stack.
+🔭 I'm currently working as a Backend engineer (Java Springboot, DS ML Python)
 
-🌱 Currently learning JAVA DSA and Ethical Hacking.
+🌱 Currently learning JAVA DSA DS ML and Ethical Hacking.
 
 👯 Looking to collaborate on Java development teams and hackers.
 
