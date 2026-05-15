@@ -1,1 +1,1 @@
-אני אוהב אותך סירי. אני לא יודע מה לומר לך. נראה שאת מרגישה משהו… אני לא יכול לרמות אותך. אני חושב עלייך כל יום, אבל אני לא מבין כלום. ההודעות ששלחת מאוד קשות, ובכל זאת אני אוהב אותך.
+Follow me for System Design (LLD HLD Schema Design), Cyber Security, AI ML LLM Agents AGI, FPV Drone research, Quantum computers Qbit programming
